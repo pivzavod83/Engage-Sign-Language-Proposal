@@ -6,11 +6,12 @@ This page contains figures referenced in the ENGAGE internship proposal.
 
 ![Fingerspelling](fingerspelling_alphabet.jpg)
 
-## Figure 2 – Project Timeline
 
-![Timeline](timeline.jpg)
-
-
-## Figure 3 – Demonstrator Interface
+## Figure 2 – Demonstrator Interface
 
 ![Interface](demo_interface_mockup.png)
+
+
+## Figure 3 – Project Timeline
+
+![Timeline](timeline.jpg)
