@@ -11,6 +11,6 @@ This page contains figures referenced in the ENGAGE internship proposal.
 ![Timeline](timeline.jpg)
 
 
-## Figure 4 – Demonstrator Interface
+## Figure 3 – Demonstrator Interface
 
 ![Interface](demo_interface_mockup.png)
